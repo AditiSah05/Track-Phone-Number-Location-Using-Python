@@ -52,18 +52,27 @@ You can find it saved automatically as:
 Copy code
 Location_Map.html
 🧩 Installation
+
 1️⃣ Clone the Repository
+
 bash
+
 Copy code
+
 git clone https://github.com/your-username/number-tracker.git
 cd number-tracker
 2️⃣ Install Dependencies
+
 bash
-#Copy code
+
+Copy code
+
 pip install phonenumbers folium geopy
 3️⃣ Run the Application
 bash
-#Copy code
+
+Copy code
+
 python app.py
 🖥️ Example Output
 <img width="746" height="880" alt="image" src="https://github.com/user-attachments/assets/810598c8-a4f1-4ee2-adac-87793fa28ad4" />
