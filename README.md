@@ -76,7 +76,9 @@ Copy code
 python app.py
 
 
-🖥️ Example Output
+🖥️ Example Output:
+
+
 <img width="746" height="880" alt="image" src="https://github.com/user-attachments/assets/810598c8-a4f1-4ee2-adac-87793fa28ad4" />
 
 
