@@ -1,11 +1,11 @@
-# 📱 Number Tracker with Location Map
+#  📱 Number Tracker with Location Map
 
 A modern and interactive **Phone Number Tracker Application** built using **Python (Tkinter)**.  
 It detects the **country, carrier, timezone, and currency** of a phone number, and displays its **approximate location on an interactive map** powered by **Folium** and **Leaflet.js**.
 
 ---
 
-## 🌟 Features
+## 🌟 Features:
 
 - 🔢 Track phone numbers worldwide (with country code)
 - 🌍 Display country, carrier, timezone, and currency
