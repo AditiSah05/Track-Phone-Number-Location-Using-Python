@@ -26,7 +26,7 @@ It detects the **country, carrier, timezone, and currency** of a phone number, a
 
 ---
 
-## 🧰 Technologies Used
+## 🧰 Technologies Used:
 
 | Component | Library/Framework | Description |
 |------------|------------------|--------------|
